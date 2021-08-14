@@ -1,4 +1,3 @@
-# Hi, I'm Danny
 
 ![minime](githubbanner2.png)
 
