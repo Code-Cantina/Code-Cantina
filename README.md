@@ -1,4 +1,4 @@
-# Hi, I'm Danny 🌊
+# Hi, I'm Danny
 
 ![minime](githubbanner2.png)
 
