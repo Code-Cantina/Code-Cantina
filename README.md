@@ -5,7 +5,7 @@ I am now working on scoping and mocking out a NHL pick-um style application.
 Always learning.
 
 ## Find Me @:
-Website: https://codecantina.com || Twitter: [@Code_Cantina](https://twitter.com/Code_Cantina)
+Website: https://codecantina.com || Twitter: [@Code_Cantina](https://twitter.com/Code_Cantina) || [Linked In](https://www.linkedin.com/in/danny-copeland-94b72554)
 
 
 
