@@ -1,8 +1,11 @@
 
 ![minime](githubbanner2.png)
 
-I'm a software developer with a focus on iOS development. I recently released [Wacky Casino](https://apps.apple.com/us/app/wacky-casino/id1556778552) to the Apple store, a fun and quirky mix of casual games with a casino atmosphere.
-I am now working on scoping and mocking out an NHL pick-um style application, revamping my website and playing with multiple other side projects and Apple frameworks. 
+I'm a software developer with a focus on iOS development. I recently released my first self published app, [Wacky Casino](https://apps.apple.com/us/app/wacky-casino/id1556778552) to the Apple store, a fun and quirky mix of casual games with a casino atmosphere.
+
+My day job I am lucky enough to work on every aspect of 2 full feature commercial ecommerce applications live in the Apple App Store.
+
+In my spare time I am working on scoping and mocking out an NHL pick-um style application, revamping my website and playing with multiple other side projects and Apple frameworks. 
 
 Always learning. Some of my favorite learning resources:
 * [Stanford iOS Courses](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu)
