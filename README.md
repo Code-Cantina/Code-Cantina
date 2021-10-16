@@ -8,6 +8,14 @@ Always learning.
 
 I have been very fortunate to have exposure to all aspects of the software development life cycle. I have worked on a multitude of Apple and 3rd party SDKs, but I know I have even more yet to learn. I remember the old provisioning profile nightmares and am no stranger to vague Apple review kick backs, but even with the woes I wouldn't trade it for anything. I am excitted for what the future brings. 
 
+* **Skill (Total Exp)**
+* Swift (4+ Years)
+* Objective - C (1+ Year)
+* C# .Net / .Net Core API's (3+ Years)
+* Java (1+ Year)
+* SQL (1+ year)
+* JavaScript / HTML / CSS (1+ Year)
+
 
 ## Find Me @:
 Website: https://codecantina.com || Twitter: [@Code_Cantina](https://twitter.com/Code_Cantina)
