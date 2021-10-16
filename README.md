@@ -16,7 +16,7 @@ I have been very fortunate to have exposure to all aspects of the software devel
 My most recent years of experience have all been in the Apple ecosystem, but my programing roots began in .Net land.
 
 * **Skill (Total Exp)**
-* Swift (4+ Years)
+* Swift (3+ Years)
 * Objective - C (1+ Year)
 * C# .Net / .Net Core API's (3+ Years)
 * Java (1+ Year)
